@@ -164,3 +164,4 @@ option (not recommended) you can uncomment the following to ignore the entire id
 /.vs
 
 .vscode/launch.json
+RotaPlus.db
